@@ -1,6 +1,6 @@
 ## esoTalk – Share plugin
 
-- Share conversations with Facebook, Twitter and Google+.
+- Share conversations with Facebook, Twitter, LinkedIn, Pinterest and Reddit.
 
 ### Installation
 
